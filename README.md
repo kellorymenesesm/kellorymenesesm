@@ -4,22 +4,33 @@
     <span>Kellory Meneses</span>
 </h1>
 
-<p align="justify">Hey guys! I'm a dedicated data analyst with a deep passion for technology and data-driven decision making. I am currently in the final stages of completing my degree in Computer Engineering, which has provided me with a solid foundation in analytical thinking, problem solving and technical knowledge. 
-<br>
- Outside of work, I'm an avid reader and love diving into books that broaden my perspective. I also have a passion for martial arts, which helps me maintain discipline and focus. Additionally, I am a proud animal lover and find great joy in spending time with my pets.</p>
+<p align="justify">
+Hi! I'm a Data Engineer with a degree in Computer Engineering, focused on building pipelines and data models that turn operational data into actionable insights. I work end-to-end — from extracting data out of enterprise and production systems to modeling, transforming and delivering it as analytics products that support day-to-day decisions in port and industrial operations.
+<br><br>
+Outside of work, I'm a dedicated reader, a martial arts practitioner — which keeps my discipline and focus sharp — and a lifelong animal lover.
+</p>
+
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://github.com/kellorymenesesm)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://github.com/kellorymenesesm)
 -->
 
+### Tech stack
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kelly-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Kelly-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Kelly-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
   <img align="center" alt="Kelly-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Kelly-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Kelly-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
   <img align="center" alt="Kelly-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg">
-  <img align="center" alt="Kelly-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
+  <img align="center" alt="Kelly-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
+  <img align="center" alt="Kelly-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
 </div>
+
+<br>
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Connect with me
 
@@ -30,4 +41,3 @@
 ### Featured repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kellorymenesesm&cache_seconds=86400&repo=Projetos-Python&theme=midnight-purple)](https://github.com/kellorymenesesm/Projetos-Python)
-
